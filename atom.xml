@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://KindWu.github.io/"/>
-  <updated>2019-09-29T02:05:49.743Z</updated>
+  <updated>2019-09-28T22:35:45.909Z</updated>
   <id>https://KindWu.github.io/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>这是我的第一篇文章</title>
-    <link href="https://KindWu.github.io/2019/09/28/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://KindWu.github.io/2019/09/28/这是我的第一篇文章/</id>
-    <published>2019-09-29T01:55:17.000Z</published>
-    <updated>2019-09-29T02:05:49.743Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="测试类别" scheme="https://KindWu.github.io/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -60,6 +35,31 @@
     
     </summary>
     
+    
+    
+  </entry>
+  
+  <entry>
+    <title>这是我的第一篇文章</title>
+    <link href="https://KindWu.github.io/2019/09/28/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://KindWu.github.io/2019/09/28/这是我的第一篇文章/</id>
+    <published>2019-09-28T13:55:17.000Z</published>
+    <updated>2019-09-29T05:46:19.133Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="测试类别" scheme="https://KindWu.github.io/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/"/>
     
     
   </entry>

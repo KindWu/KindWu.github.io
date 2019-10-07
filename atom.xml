@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://KindWu.github.io/"/>
-  <updated>2019-09-29T05:46:19.133Z</updated>
+  <updated>2019-10-07T20:52:41.552Z</updated>
   <id>https://KindWu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jupyter Notebook 修改默认工作目录的方法</title>
+    <link href="https://KindWu.github.io/2019/10/07/Juptyer%E4%BF%AE%E6%94%B9Workplace/"/>
+    <id>https://KindWu.github.io/2019/10/07/Juptyer修改Workplace/</id>
+    <published>2019-10-07T08:21:17.000Z</published>
+    <updated>2019-10-07T20:52:41.552Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;修改Jupyter-Notebook的默认工作目录&quot;&gt;&lt;a href=&quot;#修改Jupyter-Notebook的默认工作目录&quot; class=&quot;headerlink&quot; title=&quot;修改Jupyter Notebook的默认工作目录&quot;&gt;&lt;/a&gt;修改Jupyter
+        
+      
+    
+    </summary>
+    
+    
+      <category term="机器学习" scheme="https://KindWu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>这是我的第一篇文章</title>

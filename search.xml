@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Jupyter Notebook 修改默认工作目录的方法]]></title>
+    <url>%2F2019%2F10%2F07%2FJuptyer%E4%BF%AE%E6%94%B9Workplace%2F</url>
+    <content type="text"><![CDATA[修改Jupyter Notebook的默认工作目录 在第一次使用JupyterNotebook的时候，它的工作目录默认在C盘下。由于使用的是集成在网页上面的IDE，所以要更改工作路径，就要在它的配置页面下进行修改。 默认下的工作界面 步骤1. 在Anaconda Prompt中生成配置文件打开 Anaconda Prompt,输入命令： jupyter notebook --generate-config 2.打开配置文件根据显示的路径，打开配置文件jupyter_notebook_config.py，全文搜索【notebook_dir】，找到后填入自己的工作路径并保存。（注意：工作路径不能出现中文，否则无法打开Jupyter Notebook） 到#c.NotebookApp.notebook_dir =；去掉#，修改为c.NotebookApp.notebook_dir = ‘你的工作目录’。注意：WIN系统用分隔符‘\’要写成双斜杠‘\’。，不同操作系统的电脑路径不一样，windows是双斜杠，linux是反斜杠（/），Mac路径最好自己百度下。 3.修改JupyterNotebook的快捷方式 目标属性右击JupyterNotebook快捷方式，选择【属性】，删除【目标】属性中的【“%USERPROFILE%”】，点击【应用】–【确定】。 修改完成，重新打开Jupyter Notebook 即可]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[这是我的第一篇文章]]></title>
     <url>%2F2019%2F09%2F28%2F%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
     <content type="text"><![CDATA[这是我的第一篇文章今天使用了Github的个人主页功能。这个功能真的满好用的。如果想发布一个静态网站，可以使用这个方法。它支持HTML5和CSS，所以在里面还可以添加一些动画效果，播放背景音乐，放视频。哈哈！ 还有自己做（CHAO）的表白网页。表白 还有些有趣的网站可以尝试MIkutap]]></content>
